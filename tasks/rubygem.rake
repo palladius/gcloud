@@ -13,7 +13,8 @@ gemnames.each do |gemname|
     p.url            = "http://github.com/palladius/gcloud"
     p.author         = "Riccardo Carlesso"
     p.email          = "palladiusbonton AT gmail DOT com"
-    p.path           = [ 'bin/', 'packages/gcutil']
+    # Doesnt exist :(
+    #p.path           = [ 'bin/', 'packages/gcutil']
     #  So I can't accidentally ship with without certificate! Yay!
     # See: http://rubydoc.info/gems/echoe/4.6.3/frames
     p.require_signed = true
