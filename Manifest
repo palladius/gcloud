@@ -1,0 +1,10 @@
+CHANGELOG
+Makefile
+Manifest
+README.md
+Rakefile
+init.rb
+packages/README
+packages/gcutil-1.7.1.tar.gz
+packages/gsutil.tar.gz
+tasks/rubygem.rake
