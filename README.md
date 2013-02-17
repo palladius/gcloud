@@ -8,5 +8,10 @@ Usage
 =====
 
 	sudo gem install gcloud
-	gcutil version
-	gsutil version
+	gcutil-symlink version
+	gsutil-symlink version
+
+Thanks
+======
+
+Google for being what it is!

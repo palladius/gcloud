@@ -4,4 +4,4 @@ echo TODO gcloud
 # Usage: gcloud compute * => gcutil 
 shift
 set -x
-gcutil "$@"
+../packages/gcutil/gcutil "$@"

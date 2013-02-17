@@ -1,0 +1,2 @@
+- make gcloud script work with case/esac for gcutil/gsutil and then autocompletion
+- patch echoe to add a 'path' command to autoadd paths (instead of just bin)
