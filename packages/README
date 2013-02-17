@@ -1,0 +1,6 @@
+# how to keep this updated:
+
+gsutil => http://commondatastorage.googleapis.com/pub/gsutil.tar.gz
+
+gcutil => See gcutil-fetech: https://raw.github.com/palladius/sakura/master/bin/gcutil-fetch
+
