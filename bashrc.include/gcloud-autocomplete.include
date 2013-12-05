@@ -1,0 +1,5 @@
+
+DIR="$GCLOUD/bashrc.include/"
+
+complete -W "`cat $DIR/gcloud-autocomplete.list | egrep -v '^#' `" gcloud
+complete -W "`cat $DIR/gcloud-autocomplete.list | egrep -v '^#' `" gcloud.py

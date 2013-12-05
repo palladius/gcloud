@@ -1,0 +1,10 @@
+# entities (ARGV[1])
+auth components config interactive
+# options
+  -h --help
+  --project 
+  --quiet -q           
+############################################
+# second level completion
+# update should work only after components (TODO)
+update

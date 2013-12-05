@@ -1,0 +1,8 @@
+
+
+Add these lines to your ~/.bashrc:
+
+export GCLOUD=~/git/gcloud.palladius.github.com
+if [ -f $GCLOUD/bashrc ] ; then
+  source $GCLOUD/bashrc
+fi
