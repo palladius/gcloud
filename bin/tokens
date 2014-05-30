@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo export GCUTIL_TOKEN=`gce-get-token`
+echo export BOTO_REFRESH_TOKEN=`boto-get-token`
+
